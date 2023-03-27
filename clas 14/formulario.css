@@ -1,0 +1,42 @@
+body {
+    background-color: antiquewhite;
+}
+div {
+    width: 500px;
+    height: 600px;
+    margin: auto;
+    background-color: rgb(15, 75, 240);
+    border: rgb(17, 19, 19) ;
+}
+form {
+    width: 600px;
+    text-align: justify;
+    font-size: medium;
+    color: rgb(240, 111, 6);
+}
+label name {
+    width: 150px;
+    font-size: xx-large;
+    text-align: center;
+    text-emphasis: none;
+    color: rgb(13, 14, 13);
+}
+textarea {
+    width: 80%;
+    position: center;
+    text-align: center;
+    color: rgb(20, 22, 21);
+}
+input {
+    width: 180px;
+    margin-left: 15px;
+    text-align: justify;
+    margin-top: 75;
+}
+button {
+    width: 150px;
+    height: 85;
+    margin-top: 55;
+    margin-left: 85;
+    background-color: rgb(216, 46, 165)
+}
